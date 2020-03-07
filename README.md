@@ -25,4 +25,4 @@ Essential Steps For Creating a Website Structure
 
 A key point to note is that good site structure enhances user experience. If a site is appealing to users, then it's appealing to search engines too. When a website's homepage is linked to every important subpage.
 
-As the website grows,one will add more product pages and content your site will get cluttered. You need to organize it neatly, 
+As the website grows,one will add more product pages and content thus the website will get cluttered. You need to organize it nicely
