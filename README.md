@@ -31,4 +31,4 @@ If the website is not well structured,Your visitors will not be able to find wha
 
 A website structure that is well structured,information will not have to complete with one another for space or audience.
 
-site structure is important for the User eXperience (UX
+A good website structure is important for the User eXperience (UX).
