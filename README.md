@@ -27,4 +27,4 @@ A key point to note is that good site structure enhances user experience. If a s
 
 As the website grows,one will add more product pages and content thus the website will get cluttered. You need to organize it nicely.
 
-Your visitors will not be able to find what they are looking fo
+If the website is not well structured,Your visitors will not be able to find what they are looking for
